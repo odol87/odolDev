@@ -17,7 +17,6 @@ public class OdolLinkedList {
 
     public static void main(String[] args) {
         OdolLinkedList linkedList = new OdolLinkedList();
-        LinkedList list = new LinkedList();
         linkedList.add(1);
         linkedList.add(2);
         linkedList.add(3);
