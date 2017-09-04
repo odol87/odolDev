@@ -12,7 +12,9 @@ public class InsertionSort {
         int j;
 
         for (int i = 1; i < array.length; i++) {
+
             int temp = array[i];
+
             for (j = i - 1; j >= 0; j--) {
                 if (array[j] < temp) {
                     break;
