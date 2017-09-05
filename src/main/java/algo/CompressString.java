@@ -12,8 +12,10 @@ public class CompressString {
         String input = "aabbbcccc";
         char[] array = input.toCharArray();
         StringBuilder stringBuilder = new StringBuilder();
+
         char temp = array[0];
         int count = 0;
+
         for(char c : array) {
             if(temp == c) {
                 count++;

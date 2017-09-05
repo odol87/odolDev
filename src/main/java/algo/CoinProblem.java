@@ -21,7 +21,7 @@ public class CoinProblem {
             for (int i = 0; i < typeCount; i++) {
                 int x = scanner.nextInt();
                 for (int j = x; j <= 10000; j++) {
-                    dp[j] += dp[j - x];
+                    dp[j] += dp[j - x]; // 점화식 d[n] = d[n] + d[coin];
                 }
             }
             totalCount--;
