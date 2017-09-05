@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd09b72e-15a2-4ff3-adcc-9280fa2bbbec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/algo/CoinProblem.java" afterPath="$PROJECT_DIR$/src/main/java/algo/CoinProblem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/algo/CompressString.java" afterPath="$PROJECT_DIR$/src/main/java/algo/CompressString.java" />
-    </list>
+    <list default="true" id="cd09b72e-15a2-4ff3-adcc-9280fa2bbbec" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +72,8 @@
       <file leaf-file-name="SimilarWord.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/algo/SimilarWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="390">
+              <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -178,8 +175,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="778" />
+    <option name="y" value="205" />
     <option name="width" value="1680" />
     <option name="height" value="997" />
   </component>
@@ -485,15 +483,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504434089346</updated>
-      <workItem from="1504434093987" duration="36463000" />
+      <workItem from="1504434093987" duration="36713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36463000" />
+    <option name="totallyTimeSpent" value="36713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="997" extended-state="6" />
+    <frame x="778" y="205" width="1680" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -750,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/SimilarWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding />
         </state>
       </provider>
