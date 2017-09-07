@@ -57,12 +57,10 @@ public class Permutation {
     }
 
     public static void permutation(int[] array, int depth, int n, int k) {
-
         if (depth == k) {
             print(array);
             return;
         }
-
         for (int i = depth; i < n; i++) {
             swap(array, i, depth);
             permutation(array, depth + 1, n, k);
