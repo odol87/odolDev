@@ -49,9 +49,14 @@ public class SimilarWord {
 
         if (inputList.size() - 1 <= array.length && array.length <= inputList.size() + 1) {
             for (char c : array) {
-                if (!baseMap.containsKey(c)) {
+                if(diffCount >= 2) {
+                    return false;
+                }
+
+                if (!baseMap.containsKey(c)) {//O(1)
+                    baseMap.get(c); // value
                     diffCount++;
-                } else {
+                } else { // dog, doo
                     if (baseMap.get(c) > 0) {
                         baseMap.put(c, baseMap.get(c) - 1);
                     } else {

@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd09b72e-15a2-4ff3-adcc-9280fa2bbbec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/NumberDecrease.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/Palindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/Palindrome2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/RemoveString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/ReverseWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algo/Permutation.class" afterPath="$PROJECT_DIR$/target/classes/algo/Permutation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/BiggestSquare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/FindPosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algo/Hopscotch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algo/SimilarWord.class" afterPath="$PROJECT_DIR$/target/classes/algo/SimilarWord.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/dataStructure/OdolLinkedList.class" afterPath="$PROJECT_DIR$/target/classes/dataStructure/OdolLinkedList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/algo/Permutation.java" afterPath="$PROJECT_DIR$/src/main/java/algo/Permutation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/algo/SimilarWord.java" afterPath="$PROJECT_DIR$/src/main/java/algo/SimilarWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,85 +23,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Permutation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/Permutation.java">
+      <file leaf-file-name="OdolLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/ReverseWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="361">
+              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberDecrease.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/NumberDecrease.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="436">
+              <caret line="91" column="60" lean-forward="true" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/Palindrome.java">
+      <file leaf-file-name="SimilarWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/SimilarWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/Palindrome2.java">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="164" column="12" lean-forward="false" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="571" column="29" lean-forward="true" selection-start-line="571" selection-start-column="29" selection-end-line="571" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindPosition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/FindPosition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hopscotch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/Hopscotch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/RemoveString.java">
+      <file leaf-file-name="BiggestSquare.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algo/BiggestSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/StringWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -109,19 +118,14 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="115" column="45" lean-forward="true" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayPairSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algo/ArrayPairSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="209">
+              <caret line="1768" column="54" lean-forward="true" selection-start-line="1768" selection-start-column="54" selection-end-line="1768" selection-end-column="54" />
+              <folding>
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
+                <element signature="e#82971#82972#0" expanded="true" />
+                <element signature="e#83020#83021#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +138,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>containsKey</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -157,13 +166,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructure/OdolNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/dataStructure/MultiArrayQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/LCM.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/CompressString.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/CoinProblem.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/Transfer.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/CoinProblem2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algo/SimilarWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/GCD.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/FindFirstDupChar.java" />
@@ -172,8 +179,16 @@
         <option value="$PROJECT_DIR$/src/main/java/algo/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/Palindrome2.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/RemoveString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/algo/Permutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/algo/ReverseWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/SimilarWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/Minjune.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/FindPosition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/BiggestQuadrangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/BiggestSquare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algo/Hopscotch.java" />
       </list>
     </option>
   </component>
@@ -190,11 +205,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="243" />
-    <option name="y" value="323" />
-    <option name="width" value="1680" />
-    <option name="height" value="997" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="1386" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -298,15 +313,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseWord">
-    <configuration name="NumberDecrease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Hopscotch">
+    <configuration name="BiggestSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algo.NumberDecrease" />
+      <option name="MAIN_CLASS_NAME" value="algo.BiggestSquare" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,14 +333,14 @@
       <module name="odolDev" />
       <envs />
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algo.Palindrome" />
+      <option name="MAIN_CLASS_NAME" value="algo.FindPosition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -337,14 +352,14 @@
       <module name="odolDev" />
       <envs />
     </configuration>
-    <configuration name="Palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Hopscotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algo.Palindrome2" />
+      <option name="MAIN_CLASS_NAME" value="algo.Hopscotch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -356,14 +371,14 @@
       <module name="odolDev" />
       <envs />
     </configuration>
-    <configuration name="RemoveString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Minjune" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algo.RemoveString" />
+      <option name="MAIN_CLASS_NAME" value="algo.Minjune" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -375,14 +390,9 @@
       <module name="odolDev" />
       <envs />
     </configuration>
-    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algo.ReverseWord" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -475,19 +485,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NumberDecrease" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Palindrome2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RemoveString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWord" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Minjune" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindPosition" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Hopscotch" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BiggestSquare" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWord" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RemoveString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Palindrome2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Palindrome" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberDecrease" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Hopscotch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BiggestSquare" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindPosition" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Minjune" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -502,20 +512,19 @@
       <option name="presentableId" value="Default" />
       <updated>1504434089346</updated>
       <workItem from="1504434093987" duration="40765000" />
-      <workItem from="1504695270434" duration="14041000" />
+      <workItem from="1504695270434" duration="29207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54806000" />
+    <option name="totallyTimeSpent" value="69972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="997" extended-state="6" />
-    <editor active="true" />
+    <frame x="1280" y="23" width="1280" height="1386" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -523,19 +532,19 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23047177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22374798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907193" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -589,30 +598,30 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algo/Permutation.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algo/Hopscotch.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algo/BiggestSquare.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algo/CompressString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/CoinProblem2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -737,14 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="1252" column="13" lean-forward="true" selection-start-line="1252" selection-start-column="13" selection-end-line="1252" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/Transfer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -785,16 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="81" column="1" lean-forward="false" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/CoinProblem2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -825,14 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algo/SimilarWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -877,14 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="52" column="11" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/ArrayPairSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -897,14 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="115" column="45" lean-forward="true" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -930,7 +897,7 @@
         <state relative-caret-position="375">
           <caret line="25" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -961,11 +928,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algo/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="58" column="59" lean-forward="false" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        <state relative-caret-position="256">
+          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="84" column="30" lean-forward="false" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="91" column="60" lean-forward="true" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/OdolLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1768" column="54" lean-forward="true" selection-start-line="1768" selection-start-column="54" selection-end-line="1768" selection-end-column="54" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="164" column="12" lean-forward="false" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="571" column="29" lean-forward="true" selection-start-line="571" selection-start-column="29" selection-end-line="571" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/SimilarWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/Minjune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/BiggestSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/FindPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algo/Hopscotch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

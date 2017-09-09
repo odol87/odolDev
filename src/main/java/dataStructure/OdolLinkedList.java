@@ -2,7 +2,10 @@ package dataStructure;
 
 import lombok.Getter;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
+import java.util.Stack;
 
 /**
  * Created by Seokho Oh on 2017. 9. 4.
@@ -78,5 +81,7 @@ public class OdolLinkedList {
             System.out.println(node.getData());
         }
         return i;
+
+
     }
 }
