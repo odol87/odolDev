@@ -1,3 +1,4 @@
+#HSLIDE
 # webpack
 
 ## 웹개발 주니어가 본 webpack
@@ -7,10 +8,7 @@
 
 ~~겉핥기 주의~~
 
-
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-
+#HSLIDE
 
 
 
@@ -19,14 +17,12 @@
 2. without module?
 
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # better than gulp or grant?
  - loader
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # Concepts
     - Entry
@@ -34,23 +30,19 @@
     - Loaders
     - Plugins
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # webpack 1->2->3 
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # plugins
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # without resolve node_modules
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+#HSLIDE
 
 # VS Parcel
 
