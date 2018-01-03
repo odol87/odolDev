@@ -1,27 +1,19 @@
 #HSLIDE
 ## webpack
 ### 웹개발 주니어가 본 webpack
-*많은 지적 부탁드립니다*
-~~겉핥기 주의~~
+*중간 중간 많은 지적 부탁드립니다*
+~~겉핥기 & 짧음 주의~~
 ![webpack image](https://webpack.github.io/assets/what-is-webpack.png)
 
 
 #HSLIDE
-
-
-
-## Why module bundler
-1. HTTP 1.1
-2. without module?
-
+## Why use module bundler
+1. without module?
+2. HTTP 1.1
+3. <script src="blahblah">
+4. IE..
 
 #HSLIDE
-
-## better than gulp or grant?
- - loader
-
-#HSLIDE
-
 ## Concepts
     - Entry
     - Output
@@ -29,18 +21,51 @@
     - Plugins
 
 #HSLIDE
+## better than others
+ - loader
+ - faster than browserify
+ - module + bundler = webpack
+ - plugins
 
-## webpack 1->2->3 
-
-##HSLIDE
-
+#HSLIDE
 ## plugins
+ - new UglifyJsPlugin()
+ - new ExtractTextPlugin()
+ - new I18nWebpackPlugin()
+ - new NpmInstallWebpackPlugin()
+ - [공식](https://webpack.js.org/plugins/)
+ - [third-party](https://github.com/webpack-contrib/awesome-webpack#webpack-plugins)
 
 #HSLIDE
-
-## without resolve node_modules
+## VS Parcel-bundler
+- webpack을 기존의 것들?로 만들 기세
+- no config
+- 매우 빠름 [Benchmarks](https://www.npmjs.com/package/parcel-bundler#benchmarks)
+- 한 글 문 서
 
 #HSLIDE
+## Parcel-bundler 맛보기
+```
+npm i -g parcel-bundler
+npm init -y
+paercel index.html
+```
+-p <port number>
+[HMR](https://parceljs.org/hmr.html)
 
-## VS Parcel
+### Parcel build
+```
+parcel build index.js --out-dir ./
+```
+
+### plugin들은?
+### migration?
+
+## Parcel 2시간 결론
+ - 토이 프로젝트때 빠르게 찍어내기 좋겠군
+
+#VSLIDE
+## 끝
+
+
 

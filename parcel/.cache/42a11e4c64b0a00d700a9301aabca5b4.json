@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./style.css","loc":{"line":1,"column":8}},{"name":"./test.js","loc":{"line":2,"column":19}},{"name":"./parcel.js","loc":{"line":3,"column":21}}],"generated":{"js":"require(\"./style.css\");var e=require(\"./test.js\"),r=require(\"./parcel.js\");document.write(webpack+\" \"+e);"},"hash":"f7cd9ceca49fe1e50c71b9298ced758a"}

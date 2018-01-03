@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./style.css","loc":{"line":1,"column":8}},{"name":"./test.js","loc":{"line":2,"column":19}},{"name":"./parcel.js","loc":{"line":3,"column":21}}],"generated":{"js":"require('./style.css');\nvar test = require('./test.js');\nvar parcel = require('./parcel.js');\n\ndocument.write(webpack+\" \"+test);\n"},"hash":"04ddae49cac3e7e97a69a7d817c6c15b"}
