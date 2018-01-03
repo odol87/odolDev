@@ -1,7 +1,7 @@
 #HSLIDE
-# webpack
+## webpack
 
-## 웹개발 주니어가 본 webpack
+### 웹개발 주니어가 본 webpack
 ![webpack image](https://webpack.github.io/assets/what-is-webpack.png)
 
 *많은 지적 부탁드립니다*
@@ -12,19 +12,19 @@
 
 
 
-# Why module bundler
+## Why module bundler
 1. HTTP 1.1
 2. without module?
 
 
-#HSLIDE
+##HSLIDE
 
-# better than gulp or grant?
+## better than gulp or grant?
  - loader
 
 #HSLIDE
 
-# Concepts
+## Concepts
     - Entry
     - Output
     - Loaders
@@ -32,17 +32,17 @@
 
 #HSLIDE
 
-# webpack 1->2->3 
+## webpack 1->2->3 
+
+##HSLIDE
+
+## plugins
 
 #HSLIDE
 
-# plugins
+## without resolve node_modules
 
 #HSLIDE
 
-# without resolve node_modules
-
-#HSLIDE
-
-# VS Parcel
+## VS Parcel
 
