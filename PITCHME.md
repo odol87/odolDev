@@ -52,16 +52,18 @@ npm init -y
 paercel index.html
 ```
 -p port_number
+
 [HMR](https://parceljs.org/hmr.html)
 
 ### Parcel build
 ```
 parcel build index.js --out-dir ./
 ```
-
-- plugin들은?
+### compare
+- plugins?
 - migration?
 
+#HSLIDE
 ## Parcel 느낀점
  - 토이 프로젝트때 빠르게 찍어내기 좋겠군
 
