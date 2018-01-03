@@ -1,12 +1,10 @@
 #HSLIDE
 ## webpack
-
 ### 웹개발 주니어가 본 webpack
+*많은 지적 부탁드립니다*
+~~겉핥기 주의~~
 ![webpack image](https://webpack.github.io/assets/what-is-webpack.png)
 
-*많은 지적 부탁드립니다*
-
-~~겉핥기 주의~~
 
 #HSLIDE
 
@@ -17,7 +15,7 @@
 2. without module?
 
 
-##HSLIDE
+#HSLIDE
 
 ## better than gulp or grant?
  - loader
