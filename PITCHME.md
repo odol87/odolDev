@@ -37,6 +37,15 @@
  - [third-party](https://github.com/webpack-contrib/awesome-webpack#webpack-plugins)
 
 #HSLIDE
+## webpack 3 what's new
+[webpack3-official-release](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b)
+- Scope hoisting
+- Magic comments
+- Bundle size 1.3% decrease
+- JS performance faster
+
+
+#HSLIDE
 ## VS Parcel-bundler
 - webpack을 기존의 것들?로 만들 기세
 - ~~no config~~
