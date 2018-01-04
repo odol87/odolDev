@@ -48,7 +48,7 @@
 - [ETC](https://webpack.js.org/guides/migrating/)
 
 
-#HSILDE
+#HSLIDE
 ## 보충해 주실분?
 
 #VSLIDE
