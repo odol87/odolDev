@@ -44,6 +44,8 @@
 - Bundle size 1.3% decrease
 - JS performance faster
 
+#HSILDE
+## 보충해 주실분?
 
 #HSLIDE
 ## VS Parcel-bundler
