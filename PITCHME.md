@@ -43,6 +43,9 @@
 - Magic comments
 - Bundle size 1.3% decrease
 - JS performance faster
+- automatic -loader removed
+- preloaders -> enfoerce: "pre"
+- [ETC](https://webpack.js.org/guides/migrating/)
 
 #HSILDE
 ## 보충해 주실분?
@@ -80,6 +83,7 @@ parcel build index.js --out-dir ./
 
 #VSLIDE
 ## 끝
+[webpack 한글 레퍼런스 끝판왕](https://hyunseob.github.io/2017/03/21/webpack2-beginners-guide/)
 
 
 

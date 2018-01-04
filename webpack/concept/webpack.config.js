@@ -14,7 +14,7 @@ module.exports = {
         // babel-loader, babel-preset-react 등을 붙일 수 있음
     },*/ {
         test: /\.css$/,
-        use: ['style', 'css'], // 여려개의 loader를 사용할 때는 use
+        use: ['style-loader', 'css-loader'], // 여려개의 loader를 사용할 때는 use
         /*
         use: ExtractTextPlugin.extract({
         fallback: 'style', // 플러그인 실패 시 이 로더를 사용하겠다 
@@ -32,7 +32,7 @@ module.exports = {
   ],
   resolve: {
     modules: ['node_modules'], // node_modules 인식
-    extensions: ['.js', '.css', '-loader'], // extensions 자동 인식
+    extensions: ['.js', '.css'], // extensions 자동 인식
     /*alias: {
         'jquery': 'jquery/dist/jquery.min.js', // pre load 위치 지정
     }*/

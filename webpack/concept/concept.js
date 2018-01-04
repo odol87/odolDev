@@ -1,4 +1,4 @@
-// require('./style');
+require('./style');
 var test = require('./test');
 var webpack = require('./webpack');
 
