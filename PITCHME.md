@@ -59,7 +59,7 @@
 - 한 글 문 서
 - babel, react, postcss등 어느정도는 대응 중 (설정파일을 읽어서) [transforms](https://parceljs.org/transforms.html)
 
-#HSLIDE
+#VSLIDE
 ## Parcel-bundler 맛보기
 ```
 npm i -g parcel-bundler
@@ -78,7 +78,7 @@ parcel build index.js --out-dir ./
 - plugins?
 - migration?
 
-#HSLIDE
+#VSLIDE
 ## Parcel 느낀점
  - 토이 프로젝트때 빠르게 찍어내기 좋겠군
 
