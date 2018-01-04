@@ -47,10 +47,11 @@
 - preloaders -> enfoerce: "pre"
 - [ETC](https://webpack.js.org/guides/migrating/)
 
+
 #HSILDE
 ## 보충해 주실분?
 
-#HSLIDE
+#VSLIDE
 ## VS Parcel-bundler
 - webpack을 기존의 것들?로 만들 기세
 - ~~no config~~
