@@ -44,7 +44,7 @@
 - Bundle size 1.3% decrease
 - JS performance faster
 - automatic -loader removed
-- preloaders -> enfoerce: "pre"
+- preloaders -> enforce: "pre"
 - [ETC](https://webpack.js.org/guides/migrating/)
 
 
