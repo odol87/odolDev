@@ -145,7 +145,7 @@ module.exports = 'parcel';
 },{}],4:[function(require,module,exports) {
 require('./style.css');
 var test = require('./test.js');
-var parcel = require('./parcel.js');
+var webpack = require('./parcel.js');
 
 document.write(webpack+" "+test);
 
@@ -167,7 +167,7 @@ function Module() {
 module.bundle.Module = Module;
 
 if (!module.bundle.parent && typeof WebSocket !== 'undefined') {
-  var ws = new WebSocket('ws://' + window.location.hostname + ':61418/');
+  var ws = new WebSocket('ws://' + window.location.hostname + ':50883/');
   ws.onmessage = function(event) {
     var data = JSON.parse(event.data);
 

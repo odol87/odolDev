@@ -1,7 +1,8 @@
 # 프로젝트
-## Protopie
-### 주제
-### 개요
+## Protopie 개발
+- 2019.01 ~ 현재
+- 디자이너들이 손쉽게 프로토타이핑을 만들 수 있는 데스크톱 어플리케이션 개발
+
 ### 사용기술
 - Framework & Platform - Electron, NodeJS
 - Language - Typescript, Javascript
@@ -12,8 +13,10 @@
 ### [ProtoPie : https://protopie.io/](https://protopie.io/)
 
 ## LINE Bot Designer
-### 주제
-### 개요
+- 2017.10 ~ 2018.12
+- LINE 메신저의 메시지 대화를 프로토타이핑하는 데스크톱 어플리케이션 개발
+- 프로토타입 버전이 나오고 컨셉이 결정된 후 투입
+-  서비스 기획, 구현 협의 등 어플리케이션 개발 초기부터 정식 릴리즈 및 구현 확장 과 추가 요구사항 대응까지 모든 과정에 참여
 ### 사용기술
 - Framework & Platform - Electron, NodeJS
 - Language - Typescript, Javascript
