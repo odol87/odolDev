@@ -1,4 +1,28 @@
 # 프로젝트
+## Protopie
+### 주제
+### 개요
+### 사용기술
+- Framework & Platform - Electron, NodeJS
+- Language - Typescript, Javascript
+- Others - webpack, gulp, 
+
+### 참고
+
+### [ProtoPie : https://protopie.io/](https://protopie.io/)
+
+## LINE Bot Designer
+### 주제
+### 개요
+### 사용기술
+- Framework & Platform - Electron, NodeJS
+- Language - Typescript, Javascript
+- Others - jQuery
+### 참고
+
+### [LINE Bot Desigenr : https://developers.line.biz/en/services/bot-designer/](https://developers.line.biz/en/services/bot-designer/)
+
+
 ## 네이버 예약 시스템 개발  
 ### 주제
 ##### 심화주제  - Spring Security 
@@ -20,8 +44,8 @@
  - Language - Java, JavaScript
  - Opensourse & ETC - jQuery, egjs(Componnent), Handlebars, webpack
 ### 참고
-### [GitHub - Reservation System (gavas)](https://github.com/boostcamp2-gavas/reservation-system/tree/B_gavas)
-### [Spring Security 자료(wiki)](https://github.com/boostcamp2-gavas/reservation-system/wiki)
+### [GitHub - Reservation System (gavas) : https://github.com/boostcamp2-gavas/reservation-system/tree/B_gavas](https://github.com/boostcamp2-gavas/reservation-system/tree/B_gavas)
+### [Spring Security 자료(wiki) : https://github.com/boostcamp2-gavas/reservation-system/wiki](https://github.com/boostcamp2-gavas/reservation-system/wiki)
 ![reservation](../img/reservation.png)
 
 ---
@@ -75,14 +99,12 @@
 
 ---   
 # 학술활동
-## 해외
 ### Advanced Science Letters(ASL), Volume21, Number3
  - 2015.05
  "Detection of Malware for android Smartphones"
 ### Ubiquitous Computing Application and Wireless Sensor, Volume331, Lecture Notes in Electrical Engineering
  - 2015.05
  "Multi-core Scheduling Scheme for Wireless Sensor Nodes with NVRAM-Based Hybrid Memory"
-## 국내 
 ### 한국인터넷정보학회 2014년 춘계 학술 발표 대회
  - 2014.05
  "안드로이드 기반 MDM(Mobile Device Management) 시스템의 구현"
